@@ -7,7 +7,6 @@ module.exports = {
     dfp: './src/js/dfp.js',
     home: './src/js/home.js',
     infinitefeed: './src/js/infinitefeed.js',
-    article: './src/js/article.jsx',
     vendors: './src/js/vendors.js',
     a_new: './src/js/advertise_new.js',
     'visual-essay': './src/js/visual-essay.js',
